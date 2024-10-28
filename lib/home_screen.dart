@@ -1,5 +1,5 @@
 
-// ignore_for_file: prefer_const_constructors
+// ignore_for_file: prefer_const_constructors, empty_catches
 
 import 'package:flutter/material.dart';
 import 'package:calculator_ui/buttom.dart';
